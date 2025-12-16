@@ -7,7 +7,7 @@ export default function Experience() {
     <section className="reveal delay-3 mb-24">
       <div className="flex items-center gap-4 mb-8 pb-4 border-b border-[#222]">
         <h2 className="text-xl font-medium font-mono">01. Experience</h2>
-        <span className="text-[#666] text-sm font-mono">/ 3 YRS</span>
+        <span className="text-[#666] text-sm font-mono">/ 6m</span>
       </div>
 
       <div className="flex flex-col">

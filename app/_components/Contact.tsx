@@ -20,8 +20,8 @@ export default function Contact() {
         </div>
       </section>
 
-      <footer className="mt-16 text-center text-[#333] text-xs font-mono">
-        SYSTEM v2.0 • 2024
+      <footer className="mt-16 text-center text-shadow-white text-xs font-mono">
+        SYSTEM v2.0 • 2025
       </footer>
     </>
   );
